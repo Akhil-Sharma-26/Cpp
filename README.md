@@ -6,6 +6,16 @@ C++ was developed by Bjarne Stroustrup, as an extension to the C language.
 C++ gives programmers a high level of control over system resources and memory.
 
 C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.
+
+## Topics to be Covered:
+1. **Static Member Fucntion**
+2. **Inheritance**
+3. **Virtual and Abstract Classes**
+4. **Virtual Function**
+5. **Polymorphism**
+6. **Inheritance based polymorphism**
+7. **Operator Overloading**(will Try to cover maximum operators)
+8. **File Handeling Using OOPS concepts in C++**
 ## Current Objectives:
 
 1. **This is repo I created for adding files which contains different concepts of OOPS in C++.**
